@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-with open('autosphinx/README.md') as description:
+with open('fake12/README.md') as description:
     description = description.read()
 
 setup(
